@@ -10,7 +10,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a Student from South Korea.<br/>
-  #### :fire: I aim to become a Web Engineer.<br/>
+  #### :fire: I aim to become a Web Developer.<br/>
   #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sahmyook University(SYU)
   <br/>
   <br/>
