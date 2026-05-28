@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: I am a Student from South Korea.<br/>
   #### :fire: I aim to become a Security Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sahmyook University(SYU)
+  #### :mortar_board: Bachelor of Computer Science, Sahmyook University(SYU)
   <br/>
   <br/>
   
