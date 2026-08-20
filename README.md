@@ -18,7 +18,7 @@
 - PortSwigger Academy SQL Injection Lab 50개 완료
 - KISA 버그헌팅 실습훈련 초급과정 수료
 - KISA 사이버공격과 위협의 이해 수료
-- K-Shield Jr 기초과정 진행 중
+
 
 <br/>
 
