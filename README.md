@@ -13,12 +13,23 @@
 
 모의해킹·레드팀 지망 | 웹 취약점 분석 · SAST · 공격 재현
 
+- 오픈소스 MCP 서버 취약점 연구 및 비공개 제보 (수정 반영 · 크레딧)
 - SAST 정적 분석 엔진 설계·개발 (tree-sitter, Taint Analysis, CWE 매핑)
 - C 네트워크 패킷 스니퍼 및 프로토콜 분석 도구 구현
 - PortSwigger Academy SQL Injection Lab 50개 완료
 - KISA 버그헌팅 실습훈련 초급과정 수료
 - KISA 사이버공격과 위협의 이해 수료
 
+
+<br/>
+
+## 🛡️ Security Acknowledgements
+
+| Project | Finding | Outcome |
+|---|---|---|
+| [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | `validate_file_path()` 민감 디렉터리 차단 목록이 Windows에서 우회됨 (`/` vs `\`) · 서버 자신의 OAuth 자격증명 저장소 미차단 | [v2.6.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.6.0)에서 수정 (PR #1415), 릴리스 노트에 크레딧 |
+
+> 테스트 계정과 무해한 마커만 사용해 격리 환경에서 재현하고, 수정안·회귀 테스트와 함께 비공개로 제보합니다.
 
 <br/>
 
@@ -46,6 +57,12 @@
 
 ### 🌐 C 네트워크 패킷 스니퍼
 > libpcap 기반 실시간 트래픽 캡처 · L2~L4 프로토콜 헤더 분석 · TCP 소켓 프로그래밍
+
+<br/>
+
+## ✍️ Writing
+
+- [처음으로 인정받은 취약점: MCP 서버의 파일 차단 목록이 Windows에서 뚫린 이유](VELOG_URL)
 
 <br/>
 
