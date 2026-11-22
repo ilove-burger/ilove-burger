@@ -62,7 +62,7 @@
 
 ## ✍️ Writing
 
-- [처음으로 인정받은 취약점: MCP 서버의 파일 차단 목록이 Windows에서 뚫린 이유](VELOG_URL)
+- [처음으로 인정받은 취약점: MCP 서버의 파일 차단 목록이 Windows에서 뚫린 이유](https://velog.io/@melod_rama/첫-오픈소스-보안-제보-MCP-서버의-파일-차단-목록이-Windows에서-뚫린-이유)
 
 <br/>
 
