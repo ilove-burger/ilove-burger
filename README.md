@@ -28,6 +28,7 @@
 | Project | Finding | Outcome |
 |---|---|---|
 | [taylorwilsdon/google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | `validate_file_path()` 민감 디렉터리 차단 목록이 Windows에서 우회됨 (`/` vs `\`) · 서버 자신의 OAuth 자격증명 저장소 미차단 | [v2.6.0](https://github.com/taylorwilsdon/google_workspace_mcp/releases/tag/v2.6.0)에서 수정 (PR #1415), 릴리스 노트에 크레딧 |
+| [Softeria/ms-365-mcp-server](https://github.com/Softeria/ms-365-mcp-server) | 로컬 디스크에 파일을 쓰는 `download-bytes-to-file` 도구가 `readOnlyHint: true`로 표시되어, MCP 클라이언트(VS Code)의 실행 전 확인 창이 생략됨 | [v0.190.4](https://github.com/Softeria/ms-365-mcp-server/releases/tag/v0.190.4)에서 수정 (PR #851), 릴리스 노트에 크레딧 |
 
 > 테스트 계정과 무해한 마커만 사용해 격리 환경에서 재현하고, 수정안·회귀 테스트와 함께 비공개로 제보합니다.
 
